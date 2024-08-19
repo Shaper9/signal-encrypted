@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignContent: "center",
     paddingHorizontal: 10,
+    paddingTop: 10,
   },
   iconWrapper: {
     justifyContent: "center",
